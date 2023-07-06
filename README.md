@@ -1,2 +1,2 @@
 # Landing_Page
-Loading Page of a website. 
+Landing Page of a website. 
